@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.3700322
+  brandStrength: 0.6213748
+  lightness: 0.775481
+  brandColors:
+    - '#1D160D'
+    - '#BD171E'
+    - '#D7B591'
+    - '#FBFFFF'
+    - '#FB3038'
+  rhythmicContrast: 1
+typography_spectrum: 0.3292159
+name: Canguroo
