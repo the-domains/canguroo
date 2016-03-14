@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Canguroo]]></title>
         <description><![CDATA[Canguroo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/canguroo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 21:23:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 11:34:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/canguroo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Skyline]]></title>
-            <description><![CDATA[<h1>Skyline</h1>]]></description>
-            <link>undefinedskyline/index.html</link>
+            <description><![CDATA[<article><h1>Skyline</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d91e8b9330b7c417c9ec05f0851909e67430d695.png"></article>]]></description>
+            <link>https://thegrid.ai/canguroo/skyline/index.html</link>
             <guid isPermaLink="false">b5066d18-6513-4fd3-be62-c58d00176ae7</guid>
-            <pubDate>Fri, 26 Feb 2016 21:23:23 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 11:34:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
